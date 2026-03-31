@@ -1,0 +1,15 @@
+/workspaces/dynamic-queue-pyjs123/bin/Debug/net10.0/dynamic-queue-pyjs123
+/workspaces/dynamic-queue-pyjs123/bin/Debug/net10.0/dynamic-queue-pyjs123.deps.json
+/workspaces/dynamic-queue-pyjs123/bin/Debug/net10.0/dynamic-queue-pyjs123.runtimeconfig.json
+/workspaces/dynamic-queue-pyjs123/bin/Debug/net10.0/dynamic-queue-pyjs123.dll
+/workspaces/dynamic-queue-pyjs123/bin/Debug/net10.0/dynamic-queue-pyjs123.pdb
+/workspaces/dynamic-queue-pyjs123/obj/Debug/net10.0/dynamic-queue-pyjs123.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dynamic-queue-pyjs123/obj/Debug/net10.0/dynamic-queue-pyjs123.AssemblyInfoInputs.cache
+/workspaces/dynamic-queue-pyjs123/obj/Debug/net10.0/dynamic-queue-pyjs123.AssemblyInfo.cs
+/workspaces/dynamic-queue-pyjs123/obj/Debug/net10.0/dynamic-queue-pyjs123.csproj.CoreCompileInputs.cache
+/workspaces/dynamic-queue-pyjs123/obj/Debug/net10.0/dynamic-queue-pyjs123.sourcelink.json
+/workspaces/dynamic-queue-pyjs123/obj/Debug/net10.0/dynamic-queue-pyjs123.dll
+/workspaces/dynamic-queue-pyjs123/obj/Debug/net10.0/refint/dynamic-queue-pyjs123.dll
+/workspaces/dynamic-queue-pyjs123/obj/Debug/net10.0/dynamic-queue-pyjs123.pdb
+/workspaces/dynamic-queue-pyjs123/obj/Debug/net10.0/dynamic-queue-pyjs123.genruntimeconfig.cache
+/workspaces/dynamic-queue-pyjs123/obj/Debug/net10.0/ref/dynamic-queue-pyjs123.dll
